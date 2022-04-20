@@ -69,5 +69,7 @@ _site
 
 # useless files
 .bak
+tpl/
 template/
 config.json
+tpl/
